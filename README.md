@@ -2,7 +2,7 @@ This file is created for adding recruiters on Linkedin.com using Python, Seleniu
 
 This file contains the following steps:
 
-Fetching Linkedin.com.
-Log in.
-Search for recruiters to add.
-If they are available to add, click and then confirm, if not, go to next page.
+1. Fetching Linkedin.com.
+2. Log in.
+3. Search for recruiters to add.
+4. If they are available to add, click and then confirm, if not, go to next page.
