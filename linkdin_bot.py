@@ -39,7 +39,7 @@ def test_login(test_setup):
 
 
 # click on "Connect", then "Send Now" loop (when no more available, click "Next Page")
-    while 1 > 0:
+    while True:
         try:
             elem = driver.find_element_by_xpath("//span[text()='Connect']")
             elem.click()
